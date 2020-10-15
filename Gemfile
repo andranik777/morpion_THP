@@ -1,0 +1,8 @@
+gem 'pry'
+gem 'rspec'
+gem 'dotenv'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'xpath'
+gem 'json'
+gem 'rubocop'
